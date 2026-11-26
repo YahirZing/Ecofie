@@ -14,7 +14,7 @@ Promover la conciencia ambiental mediante decisiones sobre contaminación, ahorr
 
 ## Integrantes
 - **Moran Rosario Juan Pablo** — [@Juanpa0824](https://github.com/Juanpa0824)
-- **Vela Zing Yhair** — Perfil de GitHub pendiente de agregar.
+- **Vela Zing Yhair** — [YahirZing] (https://github.com/YahirZing)
 
 ## Documentación
 - [Requerimientos SRS](1-requerimientos/SRS.md)
